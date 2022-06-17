@@ -1,0 +1,14 @@
+[
+  {
+    "package": "etl",
+    "oncran": true
+  },
+  {
+    "package": "macleish",
+    "oncran": true
+  },
+  {
+    "package": "teamcolors",
+    "oncran": true
+  }
+]
