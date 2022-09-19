@@ -8,11 +8,6 @@
 	url = https://github.com/beanumber/etl
 	shallow = true
 	registered = true
-[submodule "macleish"]
-	path = macleish
-	url = https://github.com/beanumber/macleish
-	shallow = true
-	registered = true
 [submodule "teamcolors"]
 	path = teamcolors
 	url = https://github.com/beanumber/teamcolors
