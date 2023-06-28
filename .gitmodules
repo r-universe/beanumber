@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "etl"]
 	path = etl
 	url = https://github.com/beanumber/etl
-	shallow = true
-	registered = true
 [submodule "macleish"]
 	path = macleish
 	url = https://github.com/beanumber/macleish
-	shallow = true
-	registered = true
 [submodule "teamcolors"]
 	path = teamcolors
 	url = https://github.com/beanumber/teamcolors
-	shallow = true
-	registered = true
