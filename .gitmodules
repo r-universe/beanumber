@@ -11,3 +11,6 @@
 [submodule "teamcolors"]
 	path = teamcolors
 	url = https://github.com/beanumber/teamcolors
+[submodule "tidychangepoint"]
+	path = tidychangepoint
+	url = https://github.com/beanumber/tidychangepoint
